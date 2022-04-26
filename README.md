@@ -4,7 +4,7 @@
 
 #### For example, in "data/Directions":
 
-- **Moedels:**
+- **Models:**
   - ``generator_x_4GRU.pkl``
   -  ``generator_y_4GRU.pkl``
   - ``generator_z_4GRU.pkl``
